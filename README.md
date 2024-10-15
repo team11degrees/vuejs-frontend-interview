@@ -1,7 +1,7 @@
 # Instructions
 
 ## Frontend
-The task is to replicate the ui below.
+The task is to replicate the ui below using Tailwind Css.
 
 ### Screenshot 1
 ![screenshot-1](https://github.com/team11degrees/full-stack-interview-frontend/blob/main/screnshot-1.png?raw=true)
